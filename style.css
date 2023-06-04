@@ -1,0 +1,271 @@
+body {
+    font-family: 'poppins', sans-serif;
+    background-image: url(peakpx.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+}
+  /* Gaya untuk elemen <h1> */
+  h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Gaya untuk elemen <form> */
+  form {
+    margin-bottom: 20px;
+  }
+  
+  /* Gaya untuk elemen <label> */
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  /* Gaya untuk elemen input[type="text"], input[type="date"], input[type="time"], dan select */
+  input[type="text"],
+  input[type="date"],
+  input[type="time"],
+  select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+    margin-bottom: 10px;
+  }
+  
+  /* Gaya untuk elemen input[type="submit"] */
+  input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #edf1f5;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Gaya saat elemen input[type="submit"] dihover */
+  input[type="submit"]:hover {
+    background-color: #0069d9;
+  }
+  
+  /* Gaya untuk pesan kesalahan */
+  .error-message {
+    color: #ff0000;
+    margin-top: 5px;
+  }
+  
+  /* Gaya untuk pesan berhasil */
+  .success-message {
+    color: #008000;
+    margin-top: 5px;
+  }
+  /* Gaya untuk elemen <body> */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  /* Gaya untuk elemen <h1> */
+  h1 {
+    color: #f3f2f2;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Gaya untuk elemen <form> */
+  form {
+    margin-bottom: 20px;
+  }
+  
+  /* Gaya untuk elemen <label> */
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Gaya untuk elemen input[type="text"], input[type="date"], input[type="time"], dan select */
+  input[type="text"],
+  input[type="date"],
+  input[type="time"],
+  select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+    margin-bottom: 10px;
+  }
+  
+  /* Gaya untuk elemen input[type="submit"] */
+  input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Gaya saat elemen input[type="submit"] dihover */
+  input[type="submit"]:hover {
+    background-color: #0069d9;
+  }
+  /* Gaya untuk elemen <body> */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  /* Gaya untuk elemen <h1> */
+  h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Gaya untuk elemen <p> dengan class 'success' */
+  p.success {
+    color: green;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Gaya untuk elemen <p> dengan class 'harga' */
+  p.harga {
+    color: #f5f3f2;
+    font-size:24PX;
+    margin-bottom: 5px;
+  }
+  p.lapangan {
+    color: #fff;
+    font-size:24px;
+    margin-bottom: 5px;
+  }
+  /* Gaya untuk elemen <a> */
+  a {
+    color: #5ef009;
+    font-size:  40px; ;
+    font-style: oblique;
+    text-decoration: none;
+  }
+  
+  /* Gaya saat elemen <a> dihover */
+  a:hover {
+    text-decoration: underline;
+  }
+  /* Gaya untuk elemen <body> */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+  }
+  
+  /* Gaya untuk elemen <h1> */
+  h1 {
+    color: #f8f4f4;
+    font-size: xx-large;
+    margin-bottom: 20px;
+  }
+  
+  /* Gaya untuk elemen <form> */
+  form {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  /* Gaya untuk elemen <label> */
+  label {
+    margin-bottom: 5px;
+    color: #fff;
+  }
+  
+  /* Gaya untuk elemen <input> */
+  input {
+    margin-bottom: 10px;
+  }
+  
+  /* Gaya untuk elemen <select> */
+  select {
+    margin-bottom: 10px;
+  }
+  
+  /* Gaya untuk elemen <input> dengan type submit */
+  input[type="submit"] {
+    padding: 10px 36px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Gaya untuk elemen <input> dengan type submit saat dihover */
+  input[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  body {
+    font-family:'poppins', sans-serif;
+    background-color: #f5f5f5;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #fff;
+  }
+
+  h3 {
+    text-align: center;
+    color: #fff;
+  }
+  h5 {
+    text-align: center;
+  font-size: x-large;
+  font-style: initial;
+    color: #e7e5ee;
+  }
+  
+  .container {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  .success {
+    color: #2311c4;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .info {
+    margin-bottom: 10px;
+  }
+  
+  .total {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
